@@ -1,1 +1,1 @@
-# All my college Data Structure projects written in C❤️!!
+# All my college Data Structure projects written in C!!
