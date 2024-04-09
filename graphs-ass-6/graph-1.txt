@@ -1,0 +1,23 @@
+6 6 
+0 0 0 0 0 0
+0 0 1 1 0 0
+0 1 0 1 0 0
+0 1 1 0 0 0
+0 0 0 0 0 1
+0 0 0 0 1 0
+
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 1 0 0
+0 0 1 0 0 0
+0 0 0 0 0 1
+0 0 0 0 1 0
+
+0 0 0 0 0 0
+0 0 5 12 9 0
+0 5 0 10 0 0
+0 12 10 0 3 8
+0 9 0 3 0 4
+0 0 0 8 4 0
+
+This text file contains different graph examples in the form of adjacency matrix.
